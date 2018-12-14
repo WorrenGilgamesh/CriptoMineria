@@ -1,0 +1,2 @@
+# CriptoMineria
+Mini análisis
